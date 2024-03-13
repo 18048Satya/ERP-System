@@ -1,37 +1,37 @@
 ### ERP React App
-`Overview`
+### Overview
 The ERP React App is a web application built using React for efficient enterprise resource planning. It allows businesses to manage various aspects of their resources, including Orders, customers, and products, in a centralized and user-friendly interface.
-`Features`
-Dashboard: Track and manage revenue, no of orders, and no of customers .
+### Features
+`Dashboard:` Track and manage revenue, no of orders, and no of customers .
 
 ![alt text](image.png)
 
-Products: Efficiently manage product information , stock , rating and brand.
+`Products:` Efficiently manage product information , stock , rating and brand.
 
 ![alt text](image-1.png)
 
-Orders : Track the orders by the id and name of the order and quantity of the product is sales.
+`Orders :` Track the orders by the id and name of the order and quantity of the product is sales.
 
 ![alt text](image-2.png)
 
-Customers:In this we need to find the what kind of customers is need the what kind of products.
+`Customers:` In this we need to find the what kind of customers is need the what kind of products.
 
 ![alt text](image-3.png)
 
-Notification : It was drawer and view the no. Of orders have been ordered and ordered item list
+`Notification: ` It was drawer and view the no. Of orders have been ordered and ordered item list
 
 ![alt text](image-4.png)
 
-Comments : The comment drawer is used to draw the list of comments given by the customers
+`Comments: ` The comment drawer is used to draw the list of comments given by the customers
 
 ![alt text](image-5.png)
 
-Responsive Design: A user-friendly interface for website.
-`Technologies Used`
-React: Front-end development library for building user interfaces.
-React Router: For managing navigation within the application.
-Anti-Design-UI: React components for implementing  Design.
-`Installation`
+`Responsive Design: ` A user-friendly interface for website.
+### Technologies Used
+`React:` Front-end development library for building user interfaces.
+`React Router:` For managing navigation within the application.
+`Anti-Design-UI:` React components for implementing  Design.
+### Installation
 1.Clone the repository:
  by using the below code in bash
  git clone https://github.com/your-username/erp-system.git
